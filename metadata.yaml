@@ -1,0 +1,40 @@
+_repo: Observations-sur-l-orthographe-ou-ortografie-francaise-suivies-d-une-histoire-de-la-reforme-o__73912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Firmin-Didot, Ambroise
+    aliases:
+    - Didot, Ambroise Firmin
+    - Didot, A. Firmin
+    birthdate: 1790
+    deathdate: 1876
+    gutenberg_agent_id: '47003'
+    url: http://www.gutenberg.org/2009/agents/47003
+    wikipedia: https://fr.wikipedia.org/wiki/Ambroise_Firmin_Didot
+description: ''
+edition_note: Deuxième édition, revue et considérablement augmentée.
+gutenberg_issued: '2024-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73912'
+  lccn: '10034525'
+language: fr
+pgterms:marc904: https://books.google.fr/books?id=AQ7FPoK4a7UC
+pgterms:marc905: 20060917212500firmindido
+pgterms:marc906: '1868'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Hugo Voisard, Hans Pieterse and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images generously
+  made available by the Bibliothèque nationale de France (BnF/Gallica) and from scanned
+  images of public domain material from the Google Books project.)
+publication_note: '  $aParis :$bAmbroise Firmin-Didot, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Orthography and spelling'
+- !lcc 'PC'
+- GITenberg
+title: Observations sur l'orthographe ou ortografie française, suivies d'une histoire
+  de la réforme orthographique depuis le XVe siècle jusqu'a nos jours
+url: http://www.gutenberg.org/ebooks/73912
